@@ -1,0 +1,38 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #007acc;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+.navbar .left {
+  display: flex;
+  align-items: center;
+}
+
+.navbar .left img {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.navbar .right {
+  display: flex;
+  align-items: center;
+}
+
+.navbar button {
+  background-color: #0056b3;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  margin-right: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.navbar button:hover {
+  background-color: #003e80;
+}
