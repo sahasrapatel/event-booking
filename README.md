@@ -69,7 +69,7 @@ I welcome contributions from the community to improve and enhance this Event Boo
 This project is open-source and available under the MIT License. Feel free to use and modify the code to meet your specific needs.
 
 **Author:**
-
+- [Medhilesh Goud]
 - [Sahasra Patel]
 
 
